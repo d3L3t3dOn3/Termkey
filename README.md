@@ -3,6 +3,8 @@
 # To Install and Run.
 apt update && apt upgrade
 
+pkg install git
+
 apt install python
 
 pip install colorama
