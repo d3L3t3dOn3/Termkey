@@ -11,6 +11,8 @@ pip install colorama
 
 git clone https://github.com/d3L3t3dOn3/Termkey
 
+cd Termkey
+
 python termkey.py
 #
 This script was coded within 30 minutes and was made in intention to add some additional and special keys for Termux keyboard.
