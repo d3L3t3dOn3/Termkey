@@ -5,5 +5,7 @@ You can even contribute to this script if you want to.
 YouTube: Devil Techno
 
 url: https://www.youtube.com/channel/UCggUSa6CEzbyTo3OBDKTzzg
+#follow
 follow me on Instagram: @thedeviltechno
+#likepage
 Like Facebook Page: Devil Techno
